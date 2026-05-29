@@ -1,7 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://faymountainpool.github.io/site/'
 locale = 'en-us'
 title = 'Fay Mountain Pool'
 theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
