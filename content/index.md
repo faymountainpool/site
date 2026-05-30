@@ -120,7 +120,7 @@ omit_header_text: true
   <div style="flex: 1.2; min-width: 300px;">
     <h2 style="font-size: 2rem; text-align: left;">Location & Eligibility</h2>
     <p style="font-size: 1.15rem; line-height: 1.6; text-align: left;">To keep the atmosphere community-focused, membership is strictly limited to <strong>65 households</strong> located within a 1.5-mile radius of the pool.</p>
-    <p style="font-size: 1.15rem; text-align: left;"><em>You can find us tucked away right behind 12 Adams Street.</em></p>
+    <p style="font-size: 1.15rem; text-align: left;"><em>You can find us tucked away right behind 10 Adams Street.</em></p>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <img src="fay_mountain_map.png" alt="Pool Location" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
