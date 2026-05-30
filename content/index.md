@@ -73,7 +73,7 @@ draft: false
 
 1. **Contact membership:** Brandon Houlihan at [faymountain@gmail.com](mailto:faymountain@gmail.com)
 2. **Schedule a tour!** (optional)
-3. **Purchase an ownership bond:** (fully refundable when your membership ends).
+3. **Purchase an ownership bond** (fully refundable when your membership ends).
 4. **Pay the annual fee:** Currently $850 for the Summer 2026 season.
 5. **Enjoy the Oasis of Westborough all summer long!**
 
