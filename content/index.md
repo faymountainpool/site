@@ -2,13 +2,77 @@
 title: "Welcome to Fay Mountain Pool"
 date: 2026-05-29
 draft: false
+# Ananke Front Matter configuration tweaks to minimize default headers
+featured_image: ""
+omit_header_text: true
 ---
 
-<div style="width: 80vw; position: relative; left: 50%; right: 50%; margin-left: -40vw; margin-right: -40vw; max-height: 600px; overflow: hidden; margin-bottom: 40px;">
-  <img src="join_fay_mountain.png" alt="Fay Mountain Pool Hero" style="width: 100%; height: 600px; object-fit: cover; border-radius: 8px;">
+<style>
+  /* Catch-all to hide Ananke's header wrapper, nav, and banner areas completely */
+  .ananke-header, 
+  header, 
+  .cover, 
+  .site-header,
+  nav.pv3,
+  .bg-top { 
+    display: none !important; 
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    visibility: hidden !important;
+  }
+  
+  /* Force the main container to the very top of the page viewport */
+  body, main, #main {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+
+  /* Responsive Hero Image Styling */
+  .custom-hero-container {
+    width: 80vw; 
+    position: relative; 
+    left: 50%; 
+    right: 50%; 
+    margin-left: -40vw; 
+    margin-right: -40vw; 
+    overflow: hidden; 
+    margin-bottom: 40px;
+    margin-top: 0 !important;
+  }
+  
+  .custom-hero-img {
+    width: 100%; 
+    height: 600px; 
+    object-fit: cover; 
+    border-radius: 8px;
+  }
+
+  /* Mobile Tweaks */
+  @media (max-width: 768px) {
+    .custom-hero-container {
+      width: 95vw;
+      margin-left: -47.5vw;
+      margin-right: -47.5vw;
+      max-height: 300px;
+    }
+    .custom-hero-img {
+      height: auto;
+      max-height: 300px;
+    }
+    .responsive-wrapper {
+      width: 90vw !important;
+      margin-left: -45vw !important;
+      margin-right: -45vw !important;
+    }
+  }
+</style>
+
+<div class="custom-hero-container">
+  <img src="join_fay_mountain.png" alt="Fay Mountain Pool Hero" class="custom-hero-img">
 </div>
 
-<div style="width: 80vw; position: relative; left: 50%; right: 50%; margin-left: -40vw; margin-right: -40vw; text-align: left;">
+<div class="responsive-wrapper" style="width: 80vw; position: relative; left: 50%; right: 50%; margin-left: -40vw; margin-right: -40vw; text-align: left;">
 
 <h1 style="text-align: center;">Welcome to Fay Mountain Pool!</h1>
 <h3 style="text-align: center;">An association of 65 families operating a neighborhood pool since 1974.</h3>
