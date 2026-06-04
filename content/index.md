@@ -137,9 +137,11 @@ omit_header_text: true
 
 1. **Contact membership:** Brandon Houlihan at [faymountain@gmail.com](mailto:faymountain@gmail.com)
 2. **Schedule a tour!** (optional)
-3. **Purchase an ownership bond** (fully refundable when your membership ends).
-4. **Pay the annual fee:** Currently $850 for the Summer 2026 season.
-5. **Enjoy the Oasis of Westborough all summer long!**
+3. **Become a co-owner of the association.** Current fees:
+   * **One time ownership bond payment** (returned to you when you leave the pool association)
+   * **One time initation fee:** $350
+   * **Annual dues:** Currently $850 for the Summer 2026 season.
+4. **Enjoy the Oasis of Westborough all summer long!**
 
     </div>
   </div>
